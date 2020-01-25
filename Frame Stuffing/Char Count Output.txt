@@ -1,0 +1,11 @@
+Enter the no. of frames : 3
+Enter data for frame 1 : abcd
+Enter data for frame 2 : abcdefghijklmnopqrstuvwxyz
+Enter data for frame 3 : @!#$%^&*
+
+Encoded output : 5abcd27abcdefghijklmnopqrstuvwxyz9@!#$%^&*
+
+Decoded output :
+Frame 1 : abcd
+Frame 2 : abcdefghijklmnopqrstuvwxyz
+Frame 3 : @!#$%^&*

@@ -1,0 +1,7 @@
+Enter  flag  character : $
+Enter escape character : #
+Enter the message : <#uT!$y@p@
+
+Encoded output : $<##uT!#$y@p@$
+
+Decoded output : <#uT!$y@p@
